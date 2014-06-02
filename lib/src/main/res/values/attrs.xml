@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleGestureView">
+        <attr name="scaleMax" format="float"/>
+        <attr name="scaleMin" format="float"/>
+        <attr name="defaultScale" format="float"/>
+    </declare-styleable>
+</resources>
